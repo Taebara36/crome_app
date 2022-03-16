@@ -1,0 +1,21 @@
+
+#login-form_input{
+    margin-right: 15px;
+    padding: 6px 0;
+    border-radius: 20px;
+    border: none;
+}
+
+#login-form_login{
+    background-color: blueviolet;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 800;
+    color:chocolate;
+    border-radius: 50%;
+    border: none;
+}
+
+#login-form{
+    padding-top: 30px;
+
+}

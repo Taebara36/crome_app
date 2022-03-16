@@ -1,0 +1,14 @@
+#quote{
+    text-align: center;
+     position: fixed;
+     bottom: 0px;
+     align-items: center;
+     color: white;
+     font-weight: 900;
+     
+ }
+ 
+ #quote span {
+     display: block;
+     padding: 5px;
+ }
